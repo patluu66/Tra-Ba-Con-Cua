@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette|Montserrat');
+
+Button {
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.left-box {
+  width: 200px;
+  height: 200px;
+  margin-right: 10px;
+}
+
+.listing-container {
+  border-style: solid;
+  border-width: 1px;
+  display: flex;
+  flex-direction: row;
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+}
+
+.listPic {
+  width: 200px;
+  height: 200px;
+}
+
+.menu {
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.price {
+  font-size: 40px;
+}
+
+.right-box {
+  height: 200px;
+}
+
+.sortButtonPrice {
+  background-color: #4CAF50;
+}
+
+.text-address {
+  color: blue;
+  font-size: 25px;
+}
+
+.yearBuilt {
+  text-align: right;
+  height: 20px;
+}
+
+.box {
+  /* align: center; */
+  /* align-items: center; */
+}
+
+.contact {
+  font-family: 'Montserrat', sans-serif;
+  /* border-style: solid; */
+  /* text-align: center; */
+  margin-left: 100px;
+  /* margin-left: 10px; */
+  width: 400px;
+}
+
+.address {
+  font-size: 16px;
+}
+
+.teaName {
+  font-size: 25px;
+}
+
+.teaPrice {
+  font-size: 40px;
+}
+
+.teaRating {
+  font-size: 20px;
+}
+
+.space {
+  margin-top: 10px;
+}
